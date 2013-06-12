@@ -1,4 +1,10 @@
-galette-plugin-admintools (1.2-1) UNRELEASED; urgency=low
+galette-plugin-admintools (1.3-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Raphaël Hertzog <hertzog@debian.org>  Thu, 13 Jun 2013 00:27:55 +0200
+
+galette-plugin-admintools (1.2-1) unstable; urgency=low
 
   * Initial release.
 
