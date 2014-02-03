@@ -1,3 +1,10 @@
+galette-plugin-admintools (1.4-1) UNRELEASED; urgency=medium
+
+  * Updating Standards-Version
+  * Imported Upstream version 1.4
+
+ -- François-Régis Vuillemin <frv-debian@miradou.com>  Mon, 03 Feb 2014 16:23:42 +0100
+
 galette-plugin-admintools (1.3-1) unstable; urgency=low
 
   * New upstream release.
